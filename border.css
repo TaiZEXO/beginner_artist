@@ -1,0 +1,20 @@
+
+
+.primer1 {
+border-color: red green blue yellow; 
+}
+.primer2 {
+border-color: red green blue; 
+}
+.primer3 {
+border-color: red green; 
+}
+.primer4 {
+border-color: red; /
+}
+p {
+width: 140px; 
+border-width: 10px; 
+border-style: solid; 
+text-align: center; 
+}

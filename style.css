@@ -1,0 +1,20 @@
+ul {
+ 
+.primer1 {
+border-style: dotted solid dashed double; 
+}
+.primer2 {
+border-style: dotted solid dashed; 
+}
+.primer3 {
+border-style: dotted solid; 
+}
+.primer4 {
+border-style: dotted; 
+}
+p {
+width: 170px; 
+border-width: 5px; 
+border-color: green; 
+text-align: center; 
+}
